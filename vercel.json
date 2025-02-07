@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://raw.githubusercontent.com/rsdenck/agent-apex/main/apex-agent.sh",
+      "destination": "https://raw.githubusercontent.com/rsdenck/agent-apex/refs/heads/main/agent-apex.sh",
       "permanent": true
     }
   ]
